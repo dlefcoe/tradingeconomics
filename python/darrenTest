@@ -1,0 +1,5 @@
+
+strToPrnt = "hello"
+print(strToPrnt)
+
+
