@@ -1,5 +1,5 @@
 
-import pandas as pd
+# import pandas as pd
 import tradingeconomics as te
 te.login('guest:guest')
 
